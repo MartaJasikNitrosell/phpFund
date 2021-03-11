@@ -15,7 +15,7 @@ $maxLength = max(array_map('strlen', $emails));
  *    Other characters - letter, number, '-', '_' or '.'
  *    Length 3-40
  *
- * Single @ symbol
+ * Single '@' character
  *
  * Domain:
  *    First and last character - letter or number
